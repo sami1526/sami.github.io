@@ -1,0 +1,23 @@
+a, ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul {
+    overflow: auto;
+}
+
+nav li {
+    display: inline;
+    float: right; 
+    margin: 10px 11px;
+    
+}
